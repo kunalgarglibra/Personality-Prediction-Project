@@ -1,1 +1,1 @@
-# MBTI_Multicalss_Classification
+# Personality Prediction Project
