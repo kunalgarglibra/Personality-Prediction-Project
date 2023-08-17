@@ -1,4 +1,4 @@
-# PersonaNet: Unveiling Personality Insights from Online Interactions
+# PersonaWeb: Unveiling Personality Insights from Online Interactions
 
 *Leveraging Deep Learning to Predict Personality Traits using Facebook Posts and Tweets*
 
