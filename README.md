@@ -8,6 +8,8 @@ The **PersonaNet** project focuses on harnessing deep learning techniques to pre
 - Employed Natural Language Processing (NLP) techniques to preprocess the textual data derived from social media interactions.
 - Employed a range of classical machine learning models, including Support Vector Machine (SVM), Random Forest, and XGBoost, to capture personality patterns in the data.
 - Utilized sophisticated deep learning models such as Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from Transformers (BERT) to extract intricate patterns and contextual information from the text data.
+- Built and orchestrated an end-to-end ML pipeline using Apache Airflow, automating data preprocessing, model training, evaluation,
+and deployment, while integrating MLflow for experiment tracking and model versioning.
 
 ## Results
 - Achieved an accuracy rate of 66.86% using XGBoost.
